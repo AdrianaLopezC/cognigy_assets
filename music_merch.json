@@ -1,0 +1,1816 @@
+[
+    {
+        "product_name": "Ed Sheeran X Sweater",
+        "type": "sweater",
+        "artist_merch": "Ed Sheeran",
+        "sizes": [
+            "L",
+            "XL",
+            "M",
+            "XS",
+            "XXL"
+        ],
+        "colors": [
+            "cream",
+            "brown",
+            "gray"
+        ],
+        "price": 68.01
+    },
+    {
+        "product_name": "Midnights Sweater",
+        "type": "sweater",
+        "artist_merch": "Taylor Swift",
+        "sizes": [
+            "L"
+        ],
+        "colors": [
+            "white",
+            "navy",
+            "brown",
+            "black"
+        ],
+        "price": 96.04
+    },
+    {
+        "product_name": "Thank U, Next Socks",
+        "type": "socks",
+        "artist_merch": "Ariana Grande",
+        "sizes": [
+            "S"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "price": 80.8
+    },
+    {
+        "product_name": "Graduation Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Kanye West",
+        "sizes": [
+            "XL",
+            "XS"
+        ],
+        "colors": [
+            "orange"
+        ],
+        "price": 27.12
+    },
+    {
+        "product_name": "Peaches Socks",
+        "type": "socks",
+        "artist_merch": "Justin Bieber",
+        "sizes": [
+            "M",
+            "L",
+            "XXL",
+            "XL"
+        ],
+        "colors": [
+            "yellow",
+            "red",
+            "blue",
+            "cream"
+        ],
+        "price": 95.53
+    },
+    {
+        "product_name": "Prince Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Prince",
+        "sizes": [
+            "XS",
+            "XXL",
+            "M",
+            "S",
+            "XL"
+        ],
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "price": 30.26
+    },
+    {
+        "product_name": "Queen Socks",
+        "type": "socks",
+        "artist_merch": "Queen",
+        "sizes": [
+            "L",
+            "M",
+            "XXL",
+            "XS"
+        ],
+        "colors": [
+            "cream",
+            "navy",
+            "purple"
+        ],
+        "price": 71.12
+    },
+    {
+        "product_name": "Las Mujeres Ya No Lloran World Tour Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Shakira",
+        "sizes": [
+            "S",
+            "M",
+            "XL",
+            "L",
+            "XS"
+        ],
+        "colors": [
+            "yellow",
+            "navy",
+            "cream"
+        ],
+        "price": 65.76
+    },
+    {
+        "product_name": "Kanye West Ye Sweater",
+        "type": "sweater",
+        "artist_merch": "Kanye West",
+        "sizes": [
+            "L",
+            "XXL",
+            "S",
+            "M"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "price": 25.9
+    },
+    {
+        "product_name": "Maroon 5 V Socks",
+        "type": "socks",
+        "artist_merch": "Maroon 5",
+        "sizes": [
+            "XL",
+            "L",
+            "M"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "price": 66.51
+    },
+    {
+        "product_name": "Bad Guy Socks",
+        "type": "socks",
+        "artist_merch": "Billie Eilish",
+        "sizes": [
+            "XS",
+            "L",
+            "S",
+            "XXL"
+        ],
+        "colors": [
+            "gold",
+            "gray",
+            "orange",
+            "green",
+            "brown"
+        ],
+        "price": 79.8
+    },
+    {
+        "product_name": "Music of the Sun Sweater",
+        "type": "sweater",
+        "artist_merch": "Rihanna",
+        "sizes": [
+            "M",
+            "S",
+            "XL",
+            "L"
+        ],
+        "colors": [
+            "gold",
+            "cream"
+        ],
+        "price": 74.91
+    },
+    {
+        "product_name": "Adele Beanie",
+        "type": "beanie",
+        "artist_merch": "Adele",
+        "sizes": [
+            "M",
+            "XXL",
+            "L",
+            "XS",
+            "XL"
+        ],
+        "colors": [
+            "white"
+        ],
+        "price": 74.81
+    },
+    {
+        "product_name": "Taylor Swift Folklore Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Taylor Swift",
+        "sizes": [
+            "L",
+            "XL",
+            "M",
+            "XXL"
+        ],
+        "colors": [
+            "cream",
+            "navy",
+            "yellow"
+        ],
+        "price": 84.63
+    },
+    {
+        "product_name": "Bruno Mars Cap",
+        "type": "cap",
+        "artist_merch": "Bruno Mars",
+        "sizes": [
+            "S",
+            "XXL",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "pink",
+            "green"
+        ],
+        "price": 24.4
+    },
+    {
+        "product_name": "Bully Cap",
+        "type": "cap",
+        "artist_merch": "Kanye West",
+        "sizes": [
+            "L",
+            "XS",
+            "XL",
+            "M"
+        ],
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "price": 66.07
+    },
+    {
+        "product_name": "Stoney Sweater",
+        "type": "sweater",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "XL",
+            "S"
+        ],
+        "colors": [
+            "orange"
+        ],
+        "price": 36.29
+    },
+    {
+        "product_name": "Champion Sweater",
+        "type": "sweater",
+        "artist_merch": "Kanye West",
+        "sizes": [
+            "M"
+        ],
+        "colors": [
+            "purple",
+            "blue",
+            "black",
+            "gray",
+            "navy"
+        ],
+        "price": 94.27
+    },
+    {
+        "product_name": "The Rolling Stones Socks",
+        "type": "socks",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "M",
+            "XL",
+            "XS"
+        ],
+        "colors": [
+            "green",
+            "pink",
+            "red"
+        ],
+        "price": 47.17
+    },
+    {
+        "product_name": "The Weeknd Cap",
+        "type": "cap",
+        "artist_merch": "The Weeknd",
+        "sizes": [
+            "XXL"
+        ],
+        "colors": [
+            "navy",
+            "blue",
+            "yellow",
+            "black"
+        ],
+        "price": 22.93
+    },
+    {
+        "product_name": "Aftermath Hoodie",
+        "type": "hoodie",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "M"
+        ],
+        "colors": [
+            "yellow",
+            "black",
+            "pink"
+        ],
+        "price": 70.89
+    },
+    {
+        "product_name": "Arctic Monkeys Cap",
+        "type": "cap",
+        "artist_merch": "Arctic Monkeys",
+        "sizes": [
+            "XXL",
+            "S",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "red",
+            "brown",
+            "white",
+            "navy",
+            "black"
+        ],
+        "price": 80.89
+    },
+    {
+        "product_name": "Ariana Grande Sweetener Sweater",
+        "type": "sweater",
+        "artist_merch": "Ariana Grande",
+        "sizes": [
+            "M"
+        ],
+        "colors": [
+            "blue",
+            "orange",
+            "black"
+        ],
+        "price": 78.56
+    },
+    {
+        "product_name": "El dorado Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Shakira",
+        "sizes": [
+            "L",
+            "M"
+        ],
+        "colors": [
+            "gold",
+            "gray"
+        ],
+        "price": 97.19
+    },
+    {
+        "product_name": "Nirvana Socks",
+        "type": "socks",
+        "artist_merch": "Nirvana",
+        "sizes": [
+            "S",
+            "L",
+            "XS"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "cream",
+            "blue"
+        ],
+        "price": 47.11
+    },
+    {
+        "product_name": "Nirvana Beanie",
+        "type": "beanie",
+        "artist_merch": "Nirvana",
+        "sizes": [
+            "M"
+        ],
+        "colors": [
+            "black",
+            "green"
+        ],
+        "price": 68.08
+    },
+    {
+        "product_name": "I wanna be yours Socks",
+        "type": "socks",
+        "artist_merch": "Arctic Monkeys",
+        "sizes": [
+            "XXL",
+            "L",
+            "S",
+            "M",
+            "XL"
+        ],
+        "colors": [
+            "gray",
+            "white",
+            "red",
+            "navy",
+            "cream"
+        ],
+        "price": 45.64
+    },
+    {
+        "product_name": "Nirvana Beanie",
+        "type": "beanie",
+        "artist_merch": "Nirvana",
+        "sizes": [
+            "XXL",
+            "XL"
+        ],
+        "colors": [
+            "orange",
+            "navy",
+            "red",
+            "white"
+        ],
+        "price": 53.73
+    },
+    {
+        "product_name": "Tatto You Hoodie",
+        "type": "hoodie",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "S",
+            "XS",
+            "XXL",
+            "XL",
+            "L"
+        ],
+        "colors": [
+            "yellow",
+            "red"
+        ],
+        "price": 52.14
+    },
+    {
+        "product_name": "My Hero T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Foo Fighters",
+        "sizes": [
+            "M",
+            "S",
+            "XL",
+            "L"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "black",
+            "navy"
+        ],
+        "price": 79.51
+    },
+    {
+        "product_name": "Queen 50th anniversary Socks",
+        "type": "socks",
+        "artist_merch": "Queen",
+        "sizes": [
+            "XXL",
+            "M"
+        ],
+        "colors": [
+            "yellow",
+            "red",
+            "orange",
+            "green",
+            "black"
+        ],
+        "price": 93.45
+    },
+    {
+        "product_name": "Rumours Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Fleetwood Mac",
+        "sizes": [
+            "L",
+            "S",
+            "XXL"
+        ],
+        "colors": [
+            "purple",
+            "orange",
+            "white"
+        ],
+        "price": 80.95
+    },
+    {
+        "product_name": "Beliver Socks",
+        "type": "socks",
+        "artist_merch": "Imagine Dragons",
+        "sizes": [
+            "XL",
+            "S",
+            "XS",
+            "L",
+            "XXL"
+        ],
+        "colors": [
+            "red",
+            "yellow",
+            "gold",
+            "black",
+            "white"
+        ],
+        "price": 48.04
+    },
+    {
+        "product_name": "Ariana Grande Cap",
+        "type": "cap",
+        "artist_merch": "Ariana Grande",
+        "sizes": [
+            "XS",
+            "XL",
+            "L",
+            "XXL",
+            "M"
+        ],
+        "colors": [
+            "green",
+            "orange",
+            "navy",
+            "brown",
+            "pink"
+        ],
+        "price": 25.6
+    },
+    {
+        "product_name": "Kanye West Beanie",
+        "type": "beanie",
+        "artist_merch": "Kanye West",
+        "sizes": [
+            "XS",
+            "XL",
+            "XXL",
+            "M",
+            "S"
+        ],
+        "colors": [
+            "gold",
+            "white",
+            "blue"
+        ],
+        "price": 16.45
+    },
+    {
+        "product_name": "Don't Smile at Me Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Billie Eilish",
+        "sizes": [
+            "M",
+            "XXL",
+            "S"
+        ],
+        "colors": [
+            "orange",
+            "white"
+        ],
+        "price": 17.42
+    },
+    {
+        "product_name": "Keep Yourself Alive Sweater",
+        "type": "sweater",
+        "artist_merch": "Queen",
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "pink",
+            "brown",
+            "black"
+        ],
+        "price": 38.3
+    },
+    {
+        "product_name": "Songs About Jane Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Maroon 5",
+        "sizes": [
+            "S",
+            "L"
+        ],
+        "colors": [
+            "pink",
+            "red",
+            "navy"
+        ],
+        "price": 96.69
+    },
+    {
+        "product_name": "Speak Now T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Taylor Swift",
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "S",
+            "XXL"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "price": 50.78
+    },
+    {
+        "product_name": "Sunflower Sweater",
+        "type": "sweater",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "XS",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "price": 51.96
+    },
+    {
+        "product_name": "The Rolling Stones Beanie",
+        "type": "beanie",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "S",
+            "L",
+            "M",
+            "XS"
+        ],
+        "colors": [
+            "cream"
+        ],
+        "price": 42.73
+    },
+    {
+        "product_name": "Bob Dylan Cap",
+        "type": "cap",
+        "artist_merch": "Bob Dylan",
+        "sizes": [
+            "XXL",
+            "XL",
+            "M"
+        ],
+        "colors": [
+            "brown",
+            "red",
+            "white",
+            "yellow",
+            "orange"
+        ],
+        "price": 15.25
+    },
+    {
+        "product_name": "come & get it Socks",
+        "type": "socks",
+        "artist_merch": "Selena Gomez",
+        "sizes": [
+            "S",
+            "XS"
+        ],
+        "colors": [
+            "brown",
+            "gold"
+        ],
+        "price": 52.02
+    },
+    {
+        "product_name": "Taylor Swift Fearless Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Taylor Swift",
+        "sizes": [
+            "XS",
+            "XXL",
+            "L"
+        ],
+        "colors": [
+            "gold",
+            "orange",
+            "brown",
+            "purple"
+        ],
+        "price": 41.86
+    },
+    {
+        "product_name": "Harry Styles Beanie",
+        "type": "beanie",
+        "artist_merch": "Harry Styles",
+        "sizes": [
+            "XL",
+            "S",
+            "XS",
+            "M",
+            "XXL"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "price": 35.58
+    },
+    {
+        "product_name": "Chemical Beanie",
+        "type": "beanie",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "yellow",
+            "gold"
+        ],
+        "price": 71.48
+    },
+    {
+        "product_name": "Imagine Dragons Beanie",
+        "type": "beanie",
+        "artist_merch": "Imagine Dragons",
+        "sizes": [
+            "S",
+            "M",
+            "XXL",
+            "L",
+            "XS"
+        ],
+        "colors": [
+            "brown",
+            "black",
+            "green",
+            "navy"
+        ],
+        "price": 46.29
+    },
+    {
+        "product_name": "Loba Beanie",
+        "type": "beanie",
+        "artist_merch": "Shakira",
+        "sizes": [
+            "S",
+            "L",
+            "XXL"
+        ],
+        "colors": [
+            "yellow",
+            "gold",
+            "black",
+            "gray"
+        ],
+        "price": 40.18
+    },
+    {
+        "product_name": "As It Was Socks",
+        "type": "socks",
+        "artist_merch": "Harry Styles",
+        "sizes": [
+            "M",
+            "L",
+            "XS"
+        ],
+        "colors": [
+            "orange",
+            "cream",
+            "black"
+        ],
+        "price": 49.08
+    },
+    {
+        "product_name": "The Rolling Stones Cap",
+        "type": "cap",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "L",
+            "S",
+            "M",
+            "XS"
+        ],
+        "colors": [
+            "navy",
+            "green",
+            "blue",
+            "red"
+        ],
+        "price": 56.21
+    },
+    {
+        "product_name": "Selena Gomez Cap",
+        "type": "cap",
+        "artist_merch": "Selena Gomez",
+        "sizes": [
+            "XS",
+            "XXL",
+            "S"
+        ],
+        "colors": [
+            "black",
+            "red",
+            "yellow"
+        ],
+        "price": 37.32
+    },
+    {
+        "product_name": "Taylor Swift Cap",
+        "type": "cap",
+        "artist_merch": "Taylor Swift",
+        "sizes": [
+            "S",
+            "M",
+            "XXL"
+        ],
+        "colors": [
+            "white",
+            "purple",
+            "orange"
+        ],
+        "price": 55.43
+    },
+    {
+        "product_name": "Paint it Black T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "M",
+            "XXL",
+            "L"
+        ],
+        "colors": [
+            "navy",
+            "pink",
+            "cream",
+            "purple",
+            "brown"
+        ],
+        "price": 98.01
+    },
+    {
+        "product_name": "Austin Beanie",
+        "type": "beanie",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "XXL",
+            "L"
+        ],
+        "colors": [
+            "brown",
+            "black",
+            "purple"
+        ],
+        "price": 32.31
+    },
+    {
+        "product_name": " F-1 Trillion Socks",
+        "type": "socks",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "S"
+        ],
+        "colors": [
+            "red",
+            "orange",
+            "yellow"
+        ],
+        "price": 12.3
+    },
+    {
+        "product_name": "AM Beanie",
+        "type": "beanie",
+        "artist_merch": "Arctic Monkeys",
+        "sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "purple",
+            "cream",
+            "yellow"
+        ],
+        "price": 15.32
+    },
+    {
+        "product_name": "24K Magic World Tour Sweater",
+        "type": "sweater",
+        "artist_merch": "Bruno Mars",
+        "sizes": [
+            "XXL",
+            "S",
+            "XS",
+            "XL"
+        ],
+        "colors": [
+            "orange",
+            "purple"
+        ],
+        "price": 43.33
+    },
+    {
+        "product_name": "Fleetwood Mac Socks",
+        "type": "socks",
+        "artist_merch": "Fleetwood Mac",
+        "sizes": [
+            "L",
+            "XXL",
+            "XS",
+            "M",
+            "XL"
+        ],
+        "colors": [
+            "purple",
+            "blue"
+        ],
+        "price": 27.35
+    },
+    {
+        "product_name": "A Head Full of Dreams Socks",
+        "type": "socks",
+        "artist_merch": "Coldplay",
+        "sizes": [
+            "XXL",
+            "XL",
+            "XS",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "navy",
+            "yellow",
+            "cream",
+            "black"
+        ],
+        "price": 53.52
+    },
+    {
+        "product_name": "Only girl (in the world) Sweater",
+        "type": "sweater",
+        "artist_merch": "Rihanna",
+        "sizes": [
+            "XS",
+            "M"
+        ],
+        "colors": [
+            "cream",
+            "brown",
+            "purple"
+        ],
+        "price": 65.57
+    },
+    {
+        "product_name": "Stay Rihanna Sweater",
+        "type": "sweater",
+        "artist_merch": "Rihanna",
+        "sizes": [
+            "XL",
+            "M"
+        ],
+        "colors": [
+            "orange",
+            "white",
+            "green",
+            "gray"
+        ],
+        "price": 82.46
+    },
+    {
+        "product_name": "Justin Bieber Beanie",
+        "type": "beanie",
+        "artist_merch": "Justin Bieber",
+        "sizes": [
+            "XS"
+        ],
+        "colors": [
+            "blue"
+        ],
+        "price": 74.85
+    },
+    {
+        "product_name": "24K Beanie",
+        "type": "beanie",
+        "artist_merch": "Bruno Mars",
+        "sizes": [
+            "M"
+        ],
+        "colors": [
+            "cream"
+        ],
+        "price": 64.45
+    },
+    {
+        "product_name": "Doo-Wops & Hooligans T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Bruno Mars",
+        "sizes": [
+            "XL",
+            "XS",
+            "XXL",
+            "L"
+        ],
+        "colors": [
+            "brown",
+            "blue",
+            "cream",
+            "orange"
+        ],
+        "price": 92.56
+    },
+    {
+        "product_name": "Everlong T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Foo Fighters",
+        "sizes": [
+            "XS",
+            "M",
+            "S"
+        ],
+        "colors": [
+            "green",
+            "black",
+            "gold",
+            "yellow",
+            "orange"
+        ],
+        "price": 37.36
+    },
+    {
+        "product_name": "Foo Fighters Socks",
+        "type": "socks",
+        "artist_merch": "Foo Fighters",
+        "sizes": [
+            "M",
+            "L"
+        ],
+        "colors": [
+            "purple",
+            "green",
+            "red"
+        ],
+        "price": 59.22
+    },
+    {
+        "product_name": "dangerous woman Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Ariana Grande",
+        "sizes": [
+            "L"
+        ],
+        "colors": [
+            "pink",
+            "black",
+            "orange"
+        ],
+        "price": 71.87
+    },
+    {
+        "product_name": "The Dance Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Fleetwood Mac",
+        "sizes": [
+            "XS",
+            "M",
+            "XXL",
+            "XL",
+            "L"
+        ],
+        "colors": [
+            "yellow",
+            "green",
+            "white",
+            "orange"
+        ],
+        "price": 10.01
+    },
+    {
+        "product_name": "Viva la vida Beanie",
+        "type": "beanie",
+        "artist_merch": "Coldplay",
+        "sizes": [
+            "XL",
+            "XXL",
+            "S",
+            "XS"
+        ],
+        "colors": [
+            "pink",
+            "white",
+            "blue",
+            "red",
+            "purple"
+        ],
+        "price": 20.25
+    },
+    {
+        "product_name": "Post Malone Cap",
+        "type": "cap",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "XS",
+            "S"
+        ],
+        "colors": [
+            "red"
+        ],
+        "price": 90.6
+    },
+    {
+        "product_name": "Sticky Fingers Beanie",
+        "type": "beanie",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "M",
+            "XL",
+            "S"
+        ],
+        "colors": [
+            "navy",
+            "pink",
+            "yellow",
+            "blue"
+        ],
+        "price": 94.19
+    },
+    {
+        "product_name": "Madonna T-shirt",
+        "type": "beanie",
+        "artist_merch": "Madonna",
+        "sizes": [
+            "L",
+            "S"
+        ],
+        "colors": [
+            "yellow",
+            "navy"
+        ],
+        "price": 68.17
+    },
+    {
+        "product_name": "Rare T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Selena Gomez",
+        "sizes": [
+            "XS"
+        ],
+        "colors": [
+            "red",
+            "blue",
+            "yellow",
+            "purple"
+        ],
+        "price": 26.32
+    },
+    {
+        "product_name": "Foo Fighters Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Foo Fighters",
+        "sizes": [
+            "XL",
+            "XS",
+            "M",
+            "XXL",
+            "S"
+        ],
+        "colors": [
+            "yellow"
+        ],
+        "price": 28.91
+    },
+    {
+        "product_name": "Taylor Swift Eras Tour Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Taylor Swift",
+        "sizes": [
+            "S",
+            "XXL",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "yellow",
+            "white",
+            "blue",
+            "red"
+        ],
+        "price": 59.67
+    },
+    {
+        "product_name": "Watermelon Socks",
+        "type": "socks",
+        "artist_merch": "Harry Styles",
+        "sizes": [
+            "L",
+            "XS",
+            "M",
+            "XXL"
+        ],
+        "colors": [
+            "black",
+            "brown",
+            "gold"
+        ],
+        "price": 60.06
+    },
+    {
+        "product_name": "The Beatles Hoodie",
+        "type": "hoodie",
+        "artist_merch": "The Beatles",
+        "sizes": [
+            "L",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "cream",
+            "black",
+            "brown",
+            "yellow"
+        ],
+        "price": 44.26
+    },
+    {
+        "product_name": "Harry's House T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Harry Styles",
+        "sizes": [
+            "M",
+            "XS",
+            "L",
+            "S",
+            "XXL"
+        ],
+        "colors": [
+            "purple",
+            "white",
+            "cream",
+            "pink",
+            "blue"
+        ],
+        "price": 67.06
+    },
+    {
+        "product_name": "Sway Socks",
+        "type": "socks",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "S",
+            "M"
+        ],
+        "colors": [
+            "gray",
+            "blue"
+        ],
+        "price": 79.88
+    },
+    {
+        "product_name": "I want to break free T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Queen",
+        "sizes": [
+            "M",
+            "XL",
+            "XS"
+        ],
+        "colors": [
+            "purple",
+            "black",
+            "yellow"
+        ],
+        "price": 87.55
+    },
+    {
+        "product_name": "Queen Logo Sweater",
+        "type": "sweater",
+        "artist_merch": "Queen",
+        "sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "colors": [
+            "red",
+            "blue",
+            "black"
+        ],
+        "price": 51.45
+    },
+    {
+        "product_name": "Happier Than Ever T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Billie Eilish",
+        "sizes": [
+            "XL",
+            "XS",
+            "XXL",
+            "M",
+            "S"
+        ],
+        "colors": [
+            "navy",
+            "cream",
+            "gold"
+        ],
+        "price": 53.38
+    },
+    {
+        "product_name": "Drake Beanie",
+        "type": "beanie",
+        "artist_merch": "Drake",
+        "sizes": [
+            "M",
+            "XXL",
+            "XS",
+            "XL"
+        ],
+        "colors": [
+            "navy",
+            "green",
+            "cream"
+        ],
+        "price": 66.14
+    },
+    {
+        "product_name": "Hot Space Socks",
+        "type": "socks",
+        "artist_merch": "Queen",
+        "sizes": [
+            "XS",
+            "XXL",
+            "XL",
+            "S",
+            "L"
+        ],
+        "colors": [
+            "white",
+            "orange",
+            "purple",
+            "black"
+        ],
+        "price": 92.48
+    },
+    {
+        "product_name": "Diamonds T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Rihanna",
+        "sizes": [
+            "L"
+        ],
+        "colors": [
+            "red",
+            "purple"
+        ],
+        "price": 48.49
+    },
+    {
+        "product_name": "Diamonds World Tour Sweater",
+        "type": "sweater",
+        "artist_merch": "Rihanna",
+        "sizes": [
+            "XXL",
+            "XL",
+            "M",
+            "L",
+            "XS"
+        ],
+        "colors": [
+            "cream",
+            "gray",
+            "yellow",
+            "navy",
+            "black"
+        ],
+        "price": 64.97
+    },
+    {
+        "product_name": "don't stop me now Beanie",
+        "type": "beanie",
+        "artist_merch": "Queen",
+        "sizes": [
+            "S"
+        ],
+        "colors": [
+            "orange"
+        ],
+        "price": 68.97
+    },
+    {
+        "product_name": "Metallica Sweater",
+        "type": "socks",
+        "artist_merch": "Metallica",
+        "sizes": [
+            "L",
+            "XXL",
+            "XL"
+        ],
+        "colors": [
+            "blue",
+            "black",
+            "cream"
+        ],
+        "price": 55.18
+    },
+    {
+        "product_name": "Billie Eilish Sweater",
+        "type": "sweater",
+        "artist_merch": "Billie Eilish",
+        "sizes": [
+            "L",
+            "XS"
+        ],
+        "colors": [
+            "green",
+            "pink",
+            "white"
+        ],
+        "price": 43.89
+    },
+    {
+        "product_name": "Miss You T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "The Rolling Stones",
+        "sizes": [
+            "XXL",
+            "L"
+        ],
+        "colors": [
+            "red",
+            "pink",
+            "orange",
+            "cream"
+        ],
+        "price": 97.57
+    },
+    {
+        "product_name": "Easy on Me Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Adele",
+        "sizes": [
+            "XL",
+            "L"
+        ],
+        "colors": [
+            "green",
+            "cream",
+            "white",
+            "purple"
+        ],
+        "price": 21.43
+    },
+    {
+        "product_name": "Maroon 5 V Tour Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Maroon 5",
+        "sizes": [
+            "XS"
+        ],
+        "colors": [
+            "blue",
+            "yellow",
+            "purple",
+            "orange",
+            "navy"
+        ],
+        "price": 12.7
+    },
+    {
+        "product_name": "Shape of You Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Ed Sheeran",
+        "sizes": [
+            "XS",
+            "S",
+            "XXL",
+            "L",
+            "M"
+        ],
+        "colors": [
+            "gray",
+            "blue",
+            "green",
+            "brown"
+        ],
+        "price": 61.52
+    },
+    {
+        "product_name": "Wrong Ones Beanie",
+        "type": "beanie",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "XXL"
+        ],
+        "colors": [
+            "white",
+            "cream",
+            "gold",
+            "purple",
+            "brown"
+        ],
+        "price": 35.24
+    },
+    {
+        "product_name": "Coldplay T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Coldplay",
+        "sizes": [
+            "L",
+            "XS"
+        ],
+        "colors": [
+            "cream",
+            "orange",
+            "white",
+            "purple"
+        ],
+        "price": 49.64
+    },
+    {
+        "product_name": "Drake Socks",
+        "type": "socks",
+        "artist_merch": "Drake",
+        "sizes": [
+            "S",
+            "XXL",
+            "M",
+            "XS",
+            "XL"
+        ],
+        "colors": [
+            "orange",
+            "white",
+            "yellow"
+        ],
+        "price": 43.19
+    },
+    {
+        "product_name": "the heart wants what it wants T-shirt",
+        "type": "t-shirt",
+        "artist_merch": "Selena Gomez",
+        "sizes": [
+            "S",
+            "L",
+            "M",
+            "XS",
+            "XXL"
+        ],
+        "colors": [
+            "pink",
+            "red",
+            "blue",
+            "white"
+        ],
+        "price": 85.02
+    },
+    {
+        "product_name": "For You Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Selena Gomez",
+        "sizes": [
+            "XXL",
+            "XL",
+            "L"
+        ],
+        "colors": [
+            "blue",
+            "pink",
+            "black",
+            "white",
+            "orange"
+        ],
+        "price": 99.82
+    },
+    {
+        "product_name": "Marry You Cap",
+        "type": "cap",
+        "artist_merch": "Bruno Mars",
+        "sizes": [
+            "L",
+            "XS",
+            "XXL",
+            "S"
+        ],
+        "colors": [
+            "purple"
+        ],
+        "price": 96.11
+    },
+    {
+        "product_name": "r u mine? Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Arctic Monkeys",
+        "sizes": [
+            "XXL",
+            "XL",
+            "XS",
+            "L"
+        ],
+        "colors": [
+            "red"
+        ],
+        "price": 86.6
+    },
+    {
+        "product_name": "Ocean Eyes Sweater",
+        "type": "sweater",
+        "artist_merch": "Billie Eilish",
+        "sizes": [
+            "S",
+            "L"
+        ],
+        "colors": [
+            "black"
+        ],
+        "price": 25.82
+    },
+    {
+        "product_name": "Deja Vu Sweater",
+        "type": "sweater",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "XL",
+            "M",
+            "S",
+            "L",
+            "XXL"
+        ],
+        "colors": [
+            "yellow",
+            "brown",
+            "cream",
+            "blue",
+            "green"
+        ],
+        "price": 48.98
+    },
+    {
+        "product_name": "The Weeknd Beanie",
+        "type": "beanie",
+        "artist_merch": "The Weeknd",
+        "sizes": [
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "black",
+            "purple",
+            "white"
+        ],
+        "price": 80.04
+    },
+    {
+        "product_name": "The Beatles Hoodie",
+        "type": "hoodie",
+        "artist_merch": "The Beatles",
+        "sizes": [
+            "S",
+            "L"
+        ],
+        "colors": [
+            "green"
+        ],
+        "price": 99.45
+    },
+    {
+        "product_name": "hotline bling Beanie",
+        "type": "beanie",
+        "artist_merch": "Drake",
+        "sizes": [
+            "L",
+            "XXL"
+        ],
+        "colors": [
+            "green",
+            "brown",
+            "orange",
+            "blue"
+        ],
+        "price": 86.67
+    },
+    {
+        "product_name": "Bob Dylan Sweater",
+        "type": "sweater",
+        "artist_merch": "Bob Dylan",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XS"
+        ],
+        "colors": [
+            "green",
+            "black",
+            "red",
+            "navy",
+            "brown"
+        ],
+        "price": 78.23
+    },
+    {
+        "product_name": "Post Malone Socks",
+        "type": "socks",
+        "artist_merch": "Post Malone",
+        "sizes": [
+            "L",
+            "XXL",
+            "XS",
+            "M",
+            "S"
+        ],
+        "colors": [
+            "green"
+        ],
+        "price": 79.82
+    },
+    {
+        "product_name": "Bob Dylan Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Bob Dylan",
+        "sizes": [
+            "XXL",
+            "S",
+            "M",
+            "XL"
+        ],
+        "colors": [
+            "red",
+            "cream"
+        ],
+        "price": 19.09
+    },
+    {
+        "product_name": "Evermore Beanie",
+        "type": "beanie",
+        "artist_merch": "Taylor Swift",
+        "sizes": [
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "green",
+            "gray",
+            "yellow"
+        ],
+        "price": 55.24
+    },
+    {
+        "product_name": "Skyfall Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Adele",
+        "sizes": [
+            "XS"
+        ],
+        "colors": [
+            "green",
+            "blue"
+        ],
+        "price": 96.84
+    },
+    {
+        "product_name": "god's plan Hoodie",
+        "type": "hoodie",
+        "artist_merch": "Drake",
+        "sizes": [
+            "XL",
+            "S",
+            "L"
+        ],
+        "colors": [
+            "blue",
+            "purple"
+        ],
+        "price": 18.69
+    },
+    {
+        "product_name": "Madonna Beanie",
+        "type": "beanie",
+        "artist_merch": "Madonna",
+        "sizes": [
+            "XS",
+            "XL",
+            "XXL",
+            "S"
+        ],
+        "colors": [
+            "blue",
+            "gold",
+            "white",
+            "pink"
+        ],
+        "price": 96.89
+    }
+]
