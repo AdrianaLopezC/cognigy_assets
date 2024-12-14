@@ -1,0 +1,56 @@
+[
+    {
+        "order_number": "SW2596",
+        "state": "arrived to destination",
+        "number_items": 3,
+        "purchase_date": "31-07-2024"
+    },
+    {
+        "order_number": "CR1953",
+        "state": "on the way to the destination",
+        "number_items": 2,
+        "purchase_date": "25-11-2024"
+    },
+    {
+        "order_number": "DE2798",
+        "state": "pending to send",
+        "number_items": 3,
+        "purchase_date": "08-12-2024"
+    },
+    {
+        "order_number": "AU9470",
+        "state": "on the way to the destination",
+        "number_items": 3,
+        "purchase_date": "22-11-2024"
+    },
+    {
+        "order_number": "KR0294",
+        "state": "arrived to destination",
+        "number_items": 3,
+        "purchase_date": "13-08-2024"
+    },
+    {
+        "order_number": "IR9129",
+        "state": "pending to send",
+        "number_items": 3,
+        "purchase_date": "12-12-2024"
+    },
+    {
+        "order_number": "PO8311",
+        "state": "returned to store",
+        "number_items": 3,
+        "purchase_date": "09-10-2024"
+    },
+    {
+        "order_number": "FT0967",
+        "state": "arrived to destination",
+        "number_items": 3,
+        "purchase_date": "21-10-2024"
+    },
+    {
+        "order_number": "GE4010",
+        "state": "on the way to the destination",
+        "number_items": 3,
+        "purchase_date": "15-11-2024"
+    }
+]
